@@ -1,2 +1,2 @@
-# Python_Game
+# Rocket League
 Personal project
